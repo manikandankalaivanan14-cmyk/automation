@@ -27,8 +27,8 @@ public class ExtentReportManager implements ITestListener {
 
         extent.setSystemInfo("Computer Name", "localhost");
         extent.setSystemInfo("Environment", "QA");
-        extent.setSystemInfo("Tester Name", "Pavan");
-        extent.setSystemInfo("os", "Windows10");
+        extent.setSystemInfo("Tester Name", "Manikandan");
+        extent.setSystemInfo("os", "Windows11");
         extent.setSystemInfo("Browser name", "Chrome");
     }
 
